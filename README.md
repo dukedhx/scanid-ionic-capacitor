@@ -1,4 +1,6 @@
-[![Angular](https://img.shields.io/badge/Angular-v6-red.svg)](https://angular.io)
+[![Angular](https://img.shields.io/badge/Angular-v11-red.svg)](https://angular.io)
+[![iOS](https://img.shields.io/badge/iOS-white.svg)](https://angular.io)
+[![Android](https://img.shields.io/badge/Android-green.svg)](https://angular.io)
 [![Standard](https://img.shields.io/badge/Standard-Style-green.svg)](https://github.com/standard/standard)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
 
@@ -22,6 +24,13 @@ A cross platform (iOS/Android/web) sample project to demonstrate Chinese (mainla
 - `npm start` //run the sample
 
 - Browse to `http://localhost:4200`
+
+### mobile
+
+- `npx cap add android` and/or `npx cap add ios` //set up platform projects
+
+- Open the project in your IDE of chocie to run on devices/simulators ...
+
 
 ## Project Structure
 
