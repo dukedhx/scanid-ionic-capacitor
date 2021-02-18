@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ocr-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

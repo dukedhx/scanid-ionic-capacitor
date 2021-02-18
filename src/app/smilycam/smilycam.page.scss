@@ -1,0 +1,23 @@
+ion-button {
+  position: absolute;
+  top: 35px;
+  right: 5px;
+  z-index: 233;
+}
+#output {
+  z-index: 233;
+
+  background: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  height: 150px;
+  overflow-y: scroll;
+  width: 100px;
+  color: #80e80e;
+  border: 1px solid #80e80e;
+  padding: 5px;
+  p {
+    margin: 0;
+  }
+}

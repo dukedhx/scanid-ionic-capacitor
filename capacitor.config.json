@@ -1,0 +1,13 @@
+{
+  "appId": "bryan.ocr.test",
+  "appName": "OCR Test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,8 @@
+<ion-header [translucent]="true"> </ion-header>
+
+<ion-content id="content" [fullscreen]="true">
+  <ion-button (click)="start()" [disabled]='buttonText=="processing"'
+    >{{buttonText}}</ion-button
+  >
+  <canvas #canvas></canvas>
+</ion-content>

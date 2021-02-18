@@ -1,0 +1,6 @@
+<ion-header [translucent]="true"> </ion-header>
+
+<ion-content id="content" [fullscreen]="true">
+  <ion-button (click)="start()">{{buttonText}}</ion-button>
+  <div id="output"><p *ngFor="let output of outputs">{{output}}</p></div>
+</ion-content>
